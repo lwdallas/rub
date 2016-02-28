@@ -3,7 +3,8 @@ RUB(a**R**e yo**U** a **B**ad guy) is a golang command line tool to check to see
 
 **INSTALLATION** 
 
-`git clone https://github.com/lwdallas/rub.git`
+`git clone https://github.com/lwdallas/rub.git` 
+
 `go build rub.go`
 
 Copy rub into your path for easy access.
