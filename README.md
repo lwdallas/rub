@@ -11,7 +11,8 @@ Copy rub into your path for easy access.
 
 **USAGE** 
 
-`rub domainname` - returns whether the domain is suspicious
+`rub domainname` - returns whether the domain is suspicious.
+
 Uses info from Internet Storm Center https://isc.sans.edu
 (for more info lonnie@lonniewebb.com)
 
